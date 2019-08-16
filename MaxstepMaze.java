@@ -51,8 +51,10 @@ public class MaxstepMaze {
         int n=scanner.nextInt();
         int m=scanner.nextInt();
         boolean[][] maze=new boolean[n][m];
+         
         //将我们的maze数组用true和false进行赋值
-        for(int i=0;i<n;i++){
+ 
+         for(int i=0;i<n;i++){
             String s=scanner.next();
             for(int j=0;j<m;j++){
 
