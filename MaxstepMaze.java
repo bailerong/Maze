@@ -1,7 +1,6 @@
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-
 /*题目描述：
 给定一个 n 行 m 列的地牢，
 其中 '.' 表示可以通行的位置，
